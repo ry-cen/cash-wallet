@@ -1,0 +1,6 @@
+auth raian 123123
+deposit 20.00 4242424242424242 2024 05 314
+auth jungle 123123 email
+
+auth raian 123123
+send jungle 14.50
